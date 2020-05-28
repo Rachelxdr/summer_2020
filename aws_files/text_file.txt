@@ -1,0 +1,1 @@
+The as base- bi -encadled bytes orinput imagean Amazon S3 obect. 1f you use the Aws CLto call Amazon Rekognition operotins, you can4pass image bytes
